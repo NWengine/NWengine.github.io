@@ -1,0 +1,6 @@
+[book]
+authors = ["Wildric"]
+language = "en"
+multilingual = false
+src = "src"
+title = "NWengine"

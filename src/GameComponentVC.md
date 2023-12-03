@@ -1,0 +1,1 @@
+# GameComponent(virtual class)
